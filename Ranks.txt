@@ -1,0 +1,14 @@
+1- cat, 1s, 8x8, 8 Bombs
+2- ll, 4s, 4x4, 2 Bombs
+3- habbad loser, 4s, 12x12, 1 Bombs
+4- y test2, 8s, 4x4, 2 Bombs
+5- j test, 15s, 4x4, 2 Bombs
+6- moh, 108s, 4x4, 2 Bombs
+7- Pi, 129s, 8x8, 8 Bombs
+8- shit, 132s, 4x4, 3 Bombs
+9- ali, 168s, 8x8, 8 Bombs
+10- HibHib, 204s, 8x8, 8 Bombs
+11- meow, 227s, 8x8, 8 Bombs
+12- Foofa, 291s, 8x8, 8 Bombs
+13- 3lwa alm6w6, 323s, 8x8, 8 Bombs
+14- Ryan, 1182s, 8x8, 8 Bombs
